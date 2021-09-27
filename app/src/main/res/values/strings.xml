@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Spyfall</string>
+
+    <string name="logo_desc">Logotipo de Spyfall</string>
+    <string name="play_button">Jugar</string>
+    <string name="rules_button">Reglas</string>
+    <string name="to_exit_button">Salir</string>
+
+    <string name="rules_list">
+        Cabe destacar que Spyfall es un juego para tres o más personas. \n\n
+        Todos los jugadores recibirán una localización, excepto uno que tendrá el rol de espía. En el tiempo indicado y por turnos, debeis haceros preguntas para encontrar al espía. Este segundo debe adivinar la ubicación y pasar desapercibido. \n\n
+        El juego finaliza cuando el contador llegue a cero o sea parado de forma manual. Después de esto se procede con la ronda de votación. Los participantes deben indicar quién es el espía, mientras que éste debe de indicar la ubicación. Al terminar una ronda puede ocurrir los siguientes escenarios: \n\n
+        - El espía descubre la localización y no es descubierto. Gana el espía. \n
+        - Los jugadores descubren al espía y éste no descubre el lugar. Ganan los jugadores. \n
+        - El espía no descubre la localización y no es descubierto. Empate. \n
+        - Los jugadores descubren al espía y éste la ubicación. Empate. \n\n
+        ¡Suerte!
+    </string>
+    <string name="return_button">Volver</string>
+
+    <string name="players">Jugadores</string>
+    <string name="add_button">Agregar participante</string>
+    <string name="delete_title">Eliminar participante</string>
+    <string name="delete_message">¿Desea eliminar a %1$s de la lista?</string>
+    <string name="delete_ok">Eliminado con éxito.</string>
+    <string name="next_ko">No puede continuar con la configuración del juego. Debe de haber un minimo de tres jugadores para dar comienzo una partida.</string>
+
+    <string name="insert_user">Inserte el nombre o apodo del participante: </string>
+    <string name="user_tip">Nombre/Apodo</string>
+    <string name="player_ok">Agregado con éxito.</string>
+    <string name="player_ko">¡OPS! Algo no ha ido como se esperaba. Compruebe que el campo no esté repetido o vacío.</string>
+
+    <string name="round_time">Inserte duración de la ronda (en minutos): </string>
+    <string name="time_tip">Aconsejable 6-10 minutos </string>
+    <string name="continue_button">Siguiente</string>
+
+    <string name="reveal_button">Revelar ubicación</string>
+    <string name="spy">Saludos, Espía.</string>
+    <string name="secret_spy">Recuerde no revelar su rol durante la partida.</string>
+
+    <string name="game_tip">RECUERDA: La partida puede finalizar en cualquier momento, pero no podrá ser retomada con posterioridad. Una vez finalizada, dará comienzo la ronda de votación. </string>
+    <string name="start_button">Comenzar partida</string>
+    <string name="finish_button">Finalizar partida</string>
+    <string name="end_time">¡Tiempo!</string>
+
+    <string name="what_to_do">
+        ¡Da comienzo la ronda de votación! \n\n
+        A partir de este momento no está permitido ningun debate, únicamente dar el nombre de tu acusado. ¿Quién/es han ganado la partida? RECUERDE: \n\n
+        - El espía descubre la localización y no es descubierto. Gana el espía. \n
+        - Los jugadores descubren al espía y éste no descubre el lugar. Ganan los jugadores. \n
+        - El espía no descubre la localización y no es descubierto. Empate. \n
+        - Los jugadores descubren al espía y éste la ubicación. Empate.
+    </string>
+
+
+</resources>
